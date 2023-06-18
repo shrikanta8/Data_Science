@@ -1,0 +1,4 @@
+2023-06-18 09:40:11,038 this is my info msg
+2023-06-18 09:40:11,038 this is my error msg
+2023-06-18 09:40:11,038 this is my critical msg
+2023-06-18 09:43:50,490 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py

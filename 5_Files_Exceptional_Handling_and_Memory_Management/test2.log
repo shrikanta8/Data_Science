@@ -1,0 +1,37 @@
+2023-06-18 14:10:30,282 root INFO this is my info msg 
+2023-06-18 14:10:30,283 root ERROR this is my error msg 
+2023-06-18 14:10:30,283 root CRITICAL this is my critical msg 
+2023-06-18 14:11:48,330 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,330 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,330 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,331 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,331 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,331 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,331 root INFO i am inside if statement and i am trying to check list type [3, 5, 7] 
+2023-06-18 14:11:48,331 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:11:48,331 root INFO inside if statement  
+2023-06-18 14:11:48,331 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:11:48,331 root INFO inside if statement  
+2023-06-18 14:11:48,331 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:11:48,331 root INFO inside if statement  
+2023-06-18 14:11:48,331 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:11:48,331 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,825 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,825 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO i am inside if statement and i am trying to check list type [3, 5, 7] 
+2023-06-18 14:12:00,826 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:12:00,826 root INFO inside if statement  
+2023-06-18 14:12:00,826 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:12:00,826 root INFO inside if statement  
+2023-06-18 14:12:00,826 root INFO i am inside another for loop for list inside list  
+2023-06-18 14:12:00,826 root INFO inside if statement  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO we are iterating through our list and local variabl is [1, 2, 3, 4, 55, [3, 5, 7], 'shri', 'radhe']  
+2023-06-18 14:12:00,826 root INFO RESULT FOR INT IS [1, 2, 3, 4, 55, 3, 5, 7] and str is ['shri', 'radhe'] 
+2023-06-18 14:21:21,478 Comm ERROR No such comm target registered: jupyter.widget.control 
+2023-06-18 14:21:21,481 Comm WARNING No such comm: c40e1e2e-2e87-48d0-ba41-ba0f97e42924 
+2023-06-18 14:21:21,481 Comm DEBUG Current comms: [] 
